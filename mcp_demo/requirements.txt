@@ -1,0 +1,9 @@
+google-adk
+dotenv
+langchain-mcp-adapters
+mcp
+langchain
+langgraph
+langchain-groq
+langchain-community
+opik
